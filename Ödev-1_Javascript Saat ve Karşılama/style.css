@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     background-color: #6b7280;
     min-height: 100vh;
     display: flex;
@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-    background-color: white;
+    
     padding: 60px;
     border-radius: 20px;
     text-align: center;
@@ -28,12 +28,13 @@ h1 {
 
 .time {
     color: #ff8800;
-    font-size: 5rem;
+    font-size: 7rem;
     font-weight: bold;
-    margin: 30px 0;
+    margin: 60px 0;
 }
 
 .date {
     color: #ff8800;
     font-size: 2rem;
+    font-weight: bold;
 }
